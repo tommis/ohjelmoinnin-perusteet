@@ -1,1 +1,6 @@
 D:\Dev\ohjelmoinnin-perusteet\silmukka\1.MultiplyUpTo\bin\Debug\1.MultiplyUpTo.exe.config
+D:\Dev\ohjelmoinnin-perusteet\silmukka\1.MultiplyUpTo\bin\Debug\1.MultiplyUpTo.exe
+D:\Dev\ohjelmoinnin-perusteet\silmukka\1.MultiplyUpTo\bin\Debug\1.MultiplyUpTo.pdb
+D:\Dev\ohjelmoinnin-perusteet\silmukka\1.MultiplyUpTo\obj\Debug\1.MultiplyUpTo.csprojResolveAssemblyReference.cache
+D:\Dev\ohjelmoinnin-perusteet\silmukka\1.MultiplyUpTo\obj\Debug\1.MultiplyUpTo.exe
+D:\Dev\ohjelmoinnin-perusteet\silmukka\1.MultiplyUpTo\obj\Debug\1.MultiplyUpTo.pdb

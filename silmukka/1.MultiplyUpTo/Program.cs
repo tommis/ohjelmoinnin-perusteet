@@ -8,13 +8,27 @@ namespace _1.MultiplyUpTo
 {
     class Program
     {
+        delegate int del(int i, int[] table);
         static void Main(string[] args)
         {
-            Console.WriteLine("Type a number: ");
-            int result = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Type a number: ");
+            int userInput = Convert.ToInt32(Console.ReadLine());
+            int upToNumber = userInput > 0 ? userInput : 1;
 
-            int[] multiplyTable = new int[];
-            for ()
+            del multiplyWithPrevious =
+                (i, table) =>
+                     { return (i >= 2 ? table[i-2] : 1) * i; };
+        
+            int[] multiplyTable = new int[upToNumber];
+            for (int i=1; i <= upToNumber; i++) {
+                int a = multiplyWithPrevious(i, multiplyTable);
+                multiplyTable[i-1] = a;
+            }
+
+            Console.WriteLine(string.Format("Answer: {0}",
+                (multiplyTable[upToNumber - 1] >= 0) ?
+                      Convert.ToString(multiplyTable[upToNumber - 1]) : "Undefined"));
+            Console.ReadLine();
         }
     }
 }
