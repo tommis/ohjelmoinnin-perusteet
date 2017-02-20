@@ -1,0 +1,6 @@
+D:\Dev\3.evenandpositive\bin\Debug\3.evenandpositive.exe.config
+D:\Dev\3.evenandpositive\obj\Debug\3.evenandpositive.csprojResolveAssemblyReference.cache
+D:\Dev\3.evenandpositive\bin\Debug\3.evenandpositive.exe
+D:\Dev\3.evenandpositive\bin\Debug\3.evenandpositive.pdb
+D:\Dev\3.evenandpositive\obj\Debug\3.evenandpositive.exe
+D:\Dev\3.evenandpositive\obj\Debug\3.evenandpositive.pdb

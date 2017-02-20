@@ -1,0 +1,6 @@
+D:\Dev\4.sort\bin\Debug\4.sort.exe.config
+D:\Dev\4.sort\bin\Debug\4.sort.exe
+D:\Dev\4.sort\bin\Debug\4.sort.pdb
+D:\Dev\4.sort\obj\Debug\4.sort.exe
+D:\Dev\4.sort\obj\Debug\4.sort.pdb
+D:\Dev\4.sort\obj\Debug\4.sort.csprojResolveAssemblyReference.cache

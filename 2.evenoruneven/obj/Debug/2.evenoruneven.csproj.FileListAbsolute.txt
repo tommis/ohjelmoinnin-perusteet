@@ -1,0 +1,6 @@
+D:\Dev\2.evenoruneven\bin\Debug\2.evenoruneven.exe.config
+D:\Dev\2.evenoruneven\bin\Debug\2.evenoruneven.exe
+D:\Dev\2.evenoruneven\bin\Debug\2.evenoruneven.pdb
+D:\Dev\2.evenoruneven\obj\Debug\2.evenoruneven.csprojResolveAssemblyReference.cache
+D:\Dev\2.evenoruneven\obj\Debug\2.evenoruneven.exe
+D:\Dev\2.evenoruneven\obj\Debug\2.evenoruneven.pdb
