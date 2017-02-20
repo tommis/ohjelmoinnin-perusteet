@@ -1,0 +1,12 @@
+D:\Dev\5.TicketPrice\bin\Debug\5.TicketPrice.exe.config
+D:\Dev\5.TicketPrice\bin\Debug\5.TicketPrice.exe
+D:\Dev\5.TicketPrice\bin\Debug\5.TicketPrice.pdb
+D:\Dev\5.TicketPrice\obj\Debug\5.TicketPrice.csprojResolveAssemblyReference.cache
+D:\Dev\5.TicketPrice\obj\Debug\5.TicketPrice.exe
+D:\Dev\5.TicketPrice\obj\Debug\5.TicketPrice.pdb
+D:\Dev\ohjelmoinnin-perusteet\ehtorakenne\5.TicketPrice\bin\Debug\5.TicketPrice.exe.config
+D:\Dev\ohjelmoinnin-perusteet\ehtorakenne\5.TicketPrice\obj\Debug\5.TicketPrice.exe
+D:\Dev\ohjelmoinnin-perusteet\ehtorakenne\5.TicketPrice\obj\Debug\5.TicketPrice.pdb
+D:\Dev\ohjelmoinnin-perusteet\ehtorakenne\5.TicketPrice\obj\Debug\5.TicketPrice.csprojResolveAssemblyReference.cache
+D:\Dev\ohjelmoinnin-perusteet\ehtorakenne\5.TicketPrice\bin\Debug\5.TicketPrice.exe
+D:\Dev\ohjelmoinnin-perusteet\ehtorakenne\5.TicketPrice\bin\Debug\5.TicketPrice.pdb
