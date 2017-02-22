@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2.AddUpTo
+namespace _2.AddUpToWithNegativeNumbers
 {
     class Program
     {
@@ -14,12 +14,11 @@ namespace _2.AddUpTo
             int userInput = Convert.ToInt32(Console.ReadLine());
 
             int resultSum = 0;
-            for (int i = 0; i <= userInput; i++)
+            for (int i = (userInput >= 0 ? 0 : userInput); i <= (userInput < 0 ? 0 : userInput); i++)
                 resultSum = resultSum + i;
 
-            Console.WriteLine(string.Format("Answer: {0}",
-                (resultSum >= 0) ?
-                      Convert.ToString(resultSum) : "Undefined"));
+            Console.WriteLine(string.Format("Answer: {0}", Convert.ToString(resultSum)));
+
             Console.ReadLine();
         }
     }
