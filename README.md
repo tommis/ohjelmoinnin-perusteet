@@ -1,3 +1,3 @@
 # programming-basics
 
-https://github.com/ekoodi/ekoodi.github.io/tree/master/
+https://github.com/ekoodi/ekoodi.github.io/tree/master/programming-basics
