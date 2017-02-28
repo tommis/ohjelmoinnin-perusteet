@@ -1,3 +1,3 @@
-# ohjelmoinnin-perusteet
+# programming-basics
 
-https://github.com/ekoodi/ekoodi.github.io/tree/master/ohjelmoinninperusteet
+https://github.com/ekoodi/ekoodi.github.io/tree/master/
